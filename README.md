@@ -12,5 +12,5 @@ T2= {4, e2}
 T3= {6, e3}
 T4= {4, e4}
 
-The value of e1 to e5 is left for your own decision but of course they must fulfill the RM sufficient , but
+The value of e1 to e4 is left for your own decision but of course they must fulfill the RM sufficient , but
 not necessary test (UT ≤ URM).
