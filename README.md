@@ -19,7 +19,7 @@ Component files of this project are TDummy1.c, TDummy2.c, TDummy3.c, TDummy4.c, 
 
 --------------------------------------------------------------------------------------------------------------
 # Run 4 Tasks Simultaneously with 1 Core CPU
-
+Run4Sim.PNG
 
 --------------------------------------------------------------------------------------------------------------
 # Use a Main Scheduler and 4 Core CPU
