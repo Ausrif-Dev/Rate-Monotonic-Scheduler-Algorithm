@@ -23,5 +23,5 @@ Component files of this project are TDummy1.c, TDummy2.c, TDummy3.c, TDummy4.c, 
 ![alt text](https://github.com/Ausrif-Dev/RM-algorithm/blob/2b92cfe8a1605e0c0b0c155151372d2379e9c8f6/Run4SimRes.PNG?raw=true)
 --------------------------------------------------------------------------------------------------------------
 # Use a Main Scheduler and 4 Core CPU
-![alt text](https://github.com/Ausrif-Dev/RM-algorithm/blob/2b92cfe8a1605e0c0b0c155151372d2379e9c8f6/Run4SimRes.PNG?raw=true)
+![alt text](https://github.com/Ausrif-Dev/RM-algorithm/blob/0986970182afdd43b5ed6e5919d601b564d90964/RunMainSched.PNG?raw=true)
 ![alt text](https://github.com/Ausrif-Dev/RM-algorithm/blob/2b92cfe8a1605e0c0b0c155151372d2379e9c8f6/Run4SimRes.PNG?raw=true)
