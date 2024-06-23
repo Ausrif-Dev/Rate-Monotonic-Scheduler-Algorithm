@@ -19,7 +19,7 @@ Component files of this project are TDummy1.c, TDummy2.c, TDummy3.c, TDummy4.c, 
 
 --------------------------------------------------------------------------------------------------------------
 # Run 4 Tasks Simultaneously with 1 Core CPU
-![alt text](https://github.com/Ausrif-Dev/RM-algorithm/blob/2b92cfe8a1605e0c0b0c155151372d2379e9c8f6/Run4Sim.PNG?raw=true)
+![alt text](https://github.com/Ausrif-Dev/RM-algorithm/blob/0ce8c4cb8b62a592e75ae408182aebfec6052832/Run4Sim.PNG?raw=true)
 ![alt text](https://github.com/Ausrif-Dev/RM-algorithm/blob/2b92cfe8a1605e0c0b0c155151372d2379e9c8f6/Run4SimRes.PNG?raw=true)
 --------------------------------------------------------------------------------------------------------------
 # Use a Main Scheduler and 4 Core CPU
